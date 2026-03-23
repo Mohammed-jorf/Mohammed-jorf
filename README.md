@@ -28,10 +28,18 @@ I am a researcher and engineer bridging the gap between **hardware** and **intel
 
 ### 🚀 Featured Projects
 
-#### 1. [Enhancing Clinical Decision Support (MSc Thesis)](https://github.com/Mohammed-jorf/Clinical-Decision-Support)
-*Research focused on symptom-based diagnosis using NLP.*
-* **Tech:** Python, BioBERT, ClinicalBERT, TF-IDF.
-* **Key Achievement:** Optimized transfer learning scenarios using class-weighted loss and AdamW to improve fairness across medical datasets.
+#### 1. ### [Clinical Decision Support NLP](https://github.com/Mohammed-jorf/Clinical-Decision-Support-NLP)
+> *Master's Thesis · Bahçeşehir University · August 2025*
+ 
+Benchmarked classical ML models vs. domain-specific transformers (BioBERT, ClinicalBERT) for symptom-based disease classification across three datasets.
+ 
+- **BioBERT (20 epochs, class-weighted):** macro-F1 = **0.982** on Kaggle, **0.970** on cross-domain transfer
+- **Classical baselines (LR + char n-grams):** macro-F1 ≈ **0.96–0.97** — competitive with transformers
+- **TecBlic (45 classes):** **98.7% accuracy**, macro-F1 = **0.986**
+- Key finding: **AdamP > AdamW** for transformer fine-tuning; cross-domain transfer is asymmetric
+ 
+`Python` `PyTorch` `HuggingFace` `BioBERT` `scikit-learn` `Clinical NLP`
+ 
 
 #### 2. [Wearable Bone Conduction Hearing Device](https://github.com/Mohammed-jorf/Bone-Conduction-Device)
 *Hardware prototype for assistive hearing technology.*
