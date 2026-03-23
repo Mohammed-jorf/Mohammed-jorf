@@ -28,7 +28,7 @@ I am a researcher and engineer bridging the gap between **hardware** and **intel
 
 ### 🚀 Featured Projects
 
-#### 1. ### [Clinical Decision Support NLP](https://github.com/Mohammed-jorf/Clinical-Decision-Support-NLP)
+#### 1. [Clinical Decision Support NLP](https://github.com/Mohammed-jorf/Clinical-Decision-Support-NLP)
 > *Master's Thesis · Bahçeşehir University · August 2025*
  
 Benchmarked classical ML models vs. domain-specific transformers (BioBERT, ClinicalBERT) for symptom-based disease classification across three datasets.
