@@ -52,8 +52,22 @@ Benchmarked classical ML models vs. domain-specific transformers (BioBERT, Clini
 * **Includes:** Multimodal customer support agent and an autonomous deal-finder.
 
 ---
+ 
+## 🛠️ Skills & Stack
+ 
+**Languages:** Python · SQL
+**ML / DL:** PyTorch · HuggingFace Transformers · scikit-learn · BERT fine-tuning
+**NLP:** TF-IDF · Character N-grams · BioBERT · ClinicalBERT · Text Classification
+**Tools:** Jupyter · Git · Pandas · NumPy · Matplotlib · Seaborn
+**Focus areas:** Clinical AI · Domain Adaptation · Model Evaluation · NLP for Healthcare
+ 
+---
 
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/mohammedjorf/)
 * [Email](mailto:mohammedjorf99@gmail.com)
 
+
+---
+ 
+*Open to collaborations in clinical NLP, healthcare AI, and ML research.*
