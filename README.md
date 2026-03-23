@@ -1,11 +1,9 @@
-## Hi there 👋
-# I'm Mohammed Jorf! 👋
-
-### Hybrid AI & Embedded Systems Engineer
-📍 *Istanbul, Turkey*
-
-I am a researcher and engineer bridging the gap between **hardware** and **intelligent software**. With a background in **Electrical & Electronics Engineering** and an MSc in **Computer Engineering**, I specialize in Clinical AI, NLP, and building embedded medical devices.
-
+# Hi, I'm Mohammed Jorf 👋
+ 
+**MSc Computer Engineering · Clinical AI & NLP Researcher · Builder**
+ 
+I'm a computer engineering graduate (Bahçeşehir University, Istanbul 2025) with a passion for applying machine learning and NLP to real-world healthcare problems. My work sits at the intersection of clinical AI, transformer fine-tuning, and responsible model evaluation.
+ 
 ---
 
 ### 🔭 Current Focus
@@ -53,15 +51,7 @@ Benchmarked classical ML models vs. domain-specific transformers (BioBERT, Clini
 
 ---
  
-## 🛠️ Skills & Stack
- 
-**Languages:** Python · SQL
-**ML / DL:** PyTorch · HuggingFace Transformers · scikit-learn · BERT fine-tuning
-**NLP:** TF-IDF · Character N-grams · BioBERT · ClinicalBERT · Text Classification
-**Tools:** Jupyter · Git · Pandas · NumPy · Matplotlib · Seaborn
-**Focus areas:** Clinical AI · Domain Adaptation · Model Evaluation · NLP for Healthcare
- 
----
+
 
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/mohammedjorf/)
